@@ -89,7 +89,7 @@
 
     <div class="row">
       <div class="col-lg-12 interative-header">
-      <h1 id="pagetitle">Title</h1>
+      <h1 id="pagetitle">The Trump effect on Texas House races</h1>
       <p class="author">By <?php $len = count($meta['authors']) - 1; foreach($meta['authors'] as $i => $row) { print "<a href='http://twitter.com/" . $row['twitter'] . "'>" . $row['name'] . "</a>"; if ($i !== $len) print " and "; }?>
       <br>
       Published <?php print $meta['publish_date']; ?></p>
@@ -97,6 +97,26 @@
       <?php if ($meta['related_story'])
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
+      </div>
+      <div class="col-lg-12">
+        <h3>District X</h3>
+        <h5>Place name</h5>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>34%</td>
+            <td>22%</td>
+            <td>22%</td>
+            <td>22%</td>
+          </tr>
+        </table>
       </div>
     </div>
 

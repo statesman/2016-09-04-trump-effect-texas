@@ -1,3 +1,11 @@
+The Trump Effect
+=================
+
+Downballot races target by dems in hopes that Republicans that don't like Trump will not vote and therefore help Democrats.
+
+
+
+
 Single-page project
 ==============================
 
