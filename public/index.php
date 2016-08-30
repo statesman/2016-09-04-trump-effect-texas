@@ -6,21 +6,21 @@
   <?php
   // update these fields
   $meta = array(
-    "title" => "Single page project | Statesman.com",
-    "description" => "Description for single-page-project.",
+    "title" => "Working the Trump Effect | Statesman.com",
+    "description" => "Democrats target down-ballot Texas House races, hoping to capitalize on some Republican's dislike for their presidential nominee, Donald Trump.",
     "thumbnail" => "http://projects.statesman.com/site_path/assets/share.jpg",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/media/2015-08-28-16-58-55/web/site/www_mystatesman_com/images/favicon.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
     "url" => "http://projects.statesman.com/news/single-page-project/",
     "twitter" => "aasinteractive",
     "authors" => array(
-        array("name" => "John Doe", "twitter" => "john_doe"),
-        array("name" => "Don Joe", "twitter" => "don_joe")
+        array("name" => "Christian McDonald", "twitter" => "crit"),
+        array("name" => "Sean Collins Walsh", "twitter" => "seancwalsh")
     ),
     "publish_date" => "June 23, 2016",
     "related_story" => array(
         "url" => "http://www.mystatesman.com/news/news/local/jobs-schools-bring-growing-asian-population-north/nrk9D/",
-        "headline" => "Jobs, schools bring growing Asian population to Austin area"
+        "headline" => "Sean's great story headline is here"
     )
   );
 ?>
@@ -98,16 +98,27 @@
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
       </div>
-      <div class="col-lg-12">
-        <h3>District X</h3>
-        <h5>Place name</h5>
+      <div class="col-lg-8">
+        <h2>District 23</h2>
+        <h5>Galveston</h5>
+        <div class="col-lg-6 left">
+          <h3>Wayne Faircloth</h3>
+          <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+        </div>
+        <div class="col-lg-6 right">
+          <h3>Lloyd Criss, D</h3>
+          <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <img class="img-responsive" src="assets/TX-house-23.png"><br>
         <table class="table">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted for Abbott</th>
+              <th>Voted<br> for Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -117,6 +128,11 @@
             <td>22%</td>
           </tr>
         </table>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <p>Noun project icons by Yi Chen</p>
       </div>
     </div>
 

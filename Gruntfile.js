@@ -9,13 +9,13 @@ module.exports = function(grunt) {
     site_dir: "news",
 
     // the endpoint to publish to
-    site_path: "single-page-project",
+    site_path: "2016-09-04-trump-effect-texas",
 
     // name of your notifier slack bot
-    slack_username: "Neckbeard Bot",
+    slack_username: "Trump Bot",
 
     // slack emoji (don't forget the colons)
-    slack_icon_emoji: ":neckbeard:"
+    slack_icon_url: "https://d30y9cdsu7xlg0.cloudfront.net/png/404334-200.png"
   };
 
   grunt.initConfig({
@@ -144,7 +144,7 @@ module.exports = function(grunt) {
       var ftp_path = where_dis_go === "prod" ? ["http://projects.statesman.com", config.site_dir, config.site_path].join("/") : ["http://stage.host.coxmediagroup.com/aas/projects", config.site_dir, config.site_path].join("/");
 
       var payload = {
-        "text": "hello yes i am pushing code to *" + config.site_path + "*: " + ftp_path,
+        "text": "Making America Grate again with *" + config.site_path + "*: " + ftp_path,
         "channel": "#bakery",
         "username": config.slack_username,
         "icon_emoji": config.slack_icon_emoji
@@ -162,7 +162,7 @@ module.exports = function(grunt) {
           if (body !== "ok") {
             return console.error('upload failed:', body);
           }
-          console.log('we slacked it up just fine people, good work');
+          console.log('We sent a Trumped up version to Slack');
         });
     }
     // if no .slack file, log it
