@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     slack_username: "Trump Bot",
 
     // slack emoji (don't forget the colons)
-    slack_icon_url: "https://d30y9cdsu7xlg0.cloudfront.net/png/404334-200.png"
+    slack_icon_emoji: "https://d30y9cdsu7xlg0.cloudfront.net/png/404334-200.png"
   };
 
   grunt.initConfig({
@@ -147,7 +147,7 @@ module.exports = function(grunt) {
         "text": "Making America Grate again with *" + config.site_path + "*: " + ftp_path,
         "channel": "#bakery",
         "username": config.slack_username,
-        "icon_emoji": config.slack_icon_emoji
+        "icon_url": config.slack_icon_emoji
       };
 
       // send the request

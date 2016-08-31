@@ -99,12 +99,12 @@
       ?>
       </div>
     </div>
-    <!-- district 23 -->
     <hr>
+    <!-- district 23 -->
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-23.png"><br>
-        <h5>Demographics and voting history</h5>
+        <h5>District 23 demographics, voting history</h5>
         <table class="table stats">
           <thead>
             <tr>
@@ -141,12 +141,12 @@
         </div>
       </div>
     </div>
-    <!-- district 43 -->
     <hr>
+    <!-- district 43 -->
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-43.png"><br>
-        <h5>Demographics and voting history</h5>
+        <h5>District 43 demographics, voting history</h5>
         <table class="table stats">
           <thead>
             <tr>
@@ -178,6 +178,384 @@
             <img class="img_responsive" src="assets/43_d.jpg">
             <h3>Marisa Yvette Garcia-Utley</h3>
             <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 78 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-78.png"><br>
+        <h5>District 78 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>5.6%</td>
+            <td>64.7%</td>
+            <td>26.90%</td>
+            <td>49.1%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 78</h2>
+        <h5>El Paso</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/78_r.jpg">
+            <h3>Jeffrey Lane</h3>
+            <h4>Republican</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/78_d.jpg">
+            <h3>Joe Moody</h3>
+            <h4>Democrat (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 105 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-105.png"><br>
+        <h5>District 105 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>11.9%</td>
+            <td>39.2%</td>
+            <td>42.0%</td>
+            <td>55.2%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 105</h2>
+        <h5>Irving, Grand Prairie</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/105_r.jpg">
+            <h3>Rodney Anderson</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/105_d.jpg">
+            <h3>Terry Meza</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 107 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-107.png"><br>
+        <h5>District 107 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>14.8%</td>
+            <td>28.9%</td>
+            <td>52.1%</td>
+            <td>52.6%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 107</h2>
+        <h5>Mesquite, Garland</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/107_r.jpg">
+            <h3>Kenneth Sheets</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/107_d.jpg">
+            <h3>Victoria Neave</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 113 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-113.png"><br>
+        <h5>District 113 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>17.9%</td>
+            <td>26.0%</td>
+            <td>48.8%</td>
+            <td>54.7%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 113</h2>
+        <h5>Mesquite, Sunnyvale</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/113_r.jpg">
+            <h3>Cindy Burkett</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/113_d.jpg">
+            <h3>Rhetta Andrews Bowers</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 117 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-117.png"><br>
+        <h5>District 117 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>6.8%</td>
+            <td>58.8%</td>
+            <td>31.6%</td>
+            <td>51.5%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 117</h2>
+        <h5>San Antonio, Helotes</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/117_r.jpg">
+            <h3>Rick Galindo</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/117_d.jpg">
+            <h3>Philip Cortez</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 118 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-118.png"><br>
+        <h5>District 118 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>3.2%</td>
+            <td>68.7%</td>
+            <td>26.7%</td>
+            <td>45.8%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 118</h2>
+        <h5>San Antonio, Hedwig</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/118_r.jpg">
+            <h3>John Lujan</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/118_d.jpg">
+            <h3>Tomas Uresti</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 134 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-134.png"><br>
+        <h5>District 134 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>5.2%</td>
+            <td>13.3%</td>
+            <td>70.1%</td>
+            <td>50.4%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 134</h2>
+        <h5>Place_name</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/134_r.jpg">
+            <h3>Sarah Davis</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/134_d.jpg">
+            <h3>Ben Rose</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 144 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-144.png"><br>
+        <h5>District 144 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>3.8%</td>
+            <td>69.8%</td>
+            <td>25.6%</td>
+            <td>51.7%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 144</h2>
+        <h5>Pasadena, Houston</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/144_r.jpg">
+            <h3>Gilbert Peña</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/144_d.jpg">
+            <h3>Mary Ann Perez</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- district 149 -->
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-149.png"><br>
+        <h5>District 149 demographics, voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>24.4%</td>
+            <td>33.8%</td>
+            <td>20.3%</td>
+            <td>46.5%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 149</h2>
+        <h5>Houston</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/149_r.jpg">
+            <h3>Bryan Chu, R</h3>
+            <h4>Republican</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/149_d.jpg">
+            <h3>Hubert Vo, D</h3>
+            <h4>Democrat (i)</h4>
             <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
           </div>
         </div>
