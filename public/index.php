@@ -101,8 +101,9 @@
     </div>
     <hr>
     <div class="row">
-      <div class="col-lg-4">
+      <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-23.png"><br>
+        <h5>Demographics and voting history</h5>
         <table class="table stats">
           <thead>
             <tr>
@@ -120,17 +121,21 @@
           </tr>
         </table>
       </div>
-      <div class="col-lg-8">
+      <div class="col-sm-6 col-lg-8">
         <h2 class="district">District 23</h2>
         <h5>Galveston</h5>
         <div class="row">
-          <div class="col-lg-6 candidate">
+          <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/23_r.jpg">
+<!--             <div class="visible-xs">xs only</div>
+            <div class="visible-sm">sm only</div>
+            <div class="visible-md">md only</div>
+            <div class="visible-lg">lg only</div> -->
             <h3>Wayne Faircloth</h3>
             <h4>Republican (i)</h4>
             <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
           </div>
-          <div class="col-lg-6 candidate clear">
+          <div class="col-lg-6 candidate right">
             <h3>Lloyd Criss</h3>
             <h4>Democrat</h4>
             <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
