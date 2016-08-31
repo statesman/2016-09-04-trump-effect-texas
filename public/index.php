@@ -99,6 +99,7 @@
       ?>
       </div>
     </div>
+    <!-- district 23 -->
     <hr>
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
@@ -114,10 +115,10 @@
             </tr>
           </thead>
           <tr>
-            <td>34%</td>
-            <td>22%</td>
-            <td>22%</td>
-            <td>22%</td>
+            <td>19.0%</td>
+            <td>22.7%</td>
+            <td>55.5%</td>
+            <td>54.8%</td>
           </tr>
         </table>
       </div>
@@ -127,16 +128,55 @@
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/23_r.jpg">
-<!--             <div class="visible-xs">xs only</div>
-            <div class="visible-sm">sm only</div>
-            <div class="visible-md">md only</div>
-            <div class="visible-lg">lg only</div> -->
             <h3>Wayne Faircloth</h3>
             <h4>Republican (i)</h4>
             <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
           </div>
           <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/23_d.jpg">
             <h3>Lloyd Criss</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- district 43 -->
+    <hr>
+    <div class="row">
+      <div class="col-sm-6 col-lg-4 map">
+        <img class="img-responsive" src="assets/TX-house-43.png"><br>
+        <h5>Demographics and voting history</h5>
+        <table class="table stats">
+          <thead>
+            <tr>
+              <th>Black</th>
+              <th>Hispanic</th>
+              <th>White</th>
+              <th>Voted<br> for Abbott</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>3.6%</td>
+            <td>59.8%</td>
+            <td>35.0%</td>
+            <td>55.3%</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district">District 43</h2>
+        <h5>Kingsville, Alice, Corpus Christi</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate left clearfix">
+            <img class="img_responsive" src="assets/43_r.jpg">
+            <h3>J.M. Lozano</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate right">
+            <img class="img_responsive" src="assets/43_d.jpg">
+            <h3>Marisa Yvette Garcia-Utley</h3>
             <h4>Democrat</h4>
             <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
           </div>
