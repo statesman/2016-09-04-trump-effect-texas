@@ -91,7 +91,7 @@
       <p class="author">By <?php $len = count($meta['authors']) - 1; foreach($meta['authors'] as $i => $row) { print "<a href='http://twitter.com/" . $row['twitter'] . "'>" . $row['name'] . "</a>"; if ($i !== $len) print " and "; }?>
       <br>
       Published <?php print $meta['publish_date']; ?></p>
-      <p>Although the GOP’s enormous majorities in the Legislature are not in question — Republicans hold 99 of 150 seats in the House and 20 of 31 in the Senate — Democrats are hoping that disdain for Donald Trump among minority voters will make the difference for them in as many as nine GOP-held House seats. Here are 11 races that Dems hope to gain or maintain in November.</p>
+      <p>Thanks to partisan redistricting, only a handful of state House districts in Texas are consistently competitive in the general election. This year, however, Democrats are hoping to expand the map by capitalizing on Donald Trump’s lack of support among minority voters. Here are the races that are expected to be competitive this November.</p>
       <?php if ($meta['related_story'])
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
