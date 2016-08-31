@@ -1,9 +1,13 @@
 The Trump Effect
 =================
 
-Downballot races target by dems in hopes that Republicans that don't like Trump will not vote and therefore help Democrats.
+Downballot races targeted by Dems in hopes that Republicans that don't like Trump will not vote and therefore help Democrats.
 
+Of note:
 
+* I did use [minimaps](https://github.com/datanews/minimaps) to generate the locators.
+* Incumbent mugshots came from [Texas House of Representatives](http://www.house.state.tx.us/members/member-page/?district=23)
+* Sean supplied demographic and voting data. (Need source.)
 
 
 Single-page project
