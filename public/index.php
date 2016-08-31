@@ -460,7 +460,7 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district">District 134</h2>
-        <h5>Place_name</h5>
+        <h5>Houston, West University Place</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/134_r.jpg">
