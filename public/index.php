@@ -101,26 +101,9 @@
     </div>
     <hr>
     <div class="row">
-      <div class="col-lg-8">
-        <h2 class="district">District 23</h2>
-        <h5>Galveston</h5>
-        <div class="row">
-          <div class="col-lg-6 candidate">
-            <img class="img_responsive" src="assets/23_r.jpg">
-            <h3>Wayne Faircloth</h3>
-            <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
-          </div>
-          <div class="col-lg-6 candidate">
-            <h3>Lloyd Criss</h3>
-            <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
-          </div>
-        </div>
-      </div>
       <div class="col-lg-4">
         <img class="img-responsive" src="assets/TX-house-23.png"><br>
-        <table class="table">
+        <table class="table stats">
           <thead>
             <tr>
               <th>Black</th>
@@ -137,13 +120,32 @@
           </tr>
         </table>
       </div>
+      <div class="col-lg-8">
+        <h2 class="district">District 23</h2>
+        <h5>Galveston</h5>
+        <div class="row">
+          <div class="col-lg-6 candidate">
+            <img class="img_responsive" src="assets/23_r.jpg">
+            <h3>Wayne Faircloth</h3>
+            <h4>Republican (i)</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+          </div>
+          <div class="col-lg-6 candidate clear">
+            <h3>Lloyd Criss</h3>
+            <h4>Democrat</h4>
+            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="row">
+    <hr>
+
+<!--     <div class="row">
       <div class="col-xs-12">
         <p>Noun project icons by Yi Chen</p>
       </div>
     </div>
-
+ -->
 
   </article>
 
