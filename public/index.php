@@ -109,13 +109,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>19.0%</td>
             <td>22.7%</td>
             <td>55.5%</td>
+            <td>3.2%</td>
             <td>54.8%</td>
           </tr>
         </table>
@@ -151,13 +153,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>3.6%</td>
             <td>59.8%</td>
             <td>35.0%</td>
+            <td>1.8%</td>
             <td>55.3%</td>
           </tr>
         </table>
@@ -193,13 +197,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>5.6%</td>
             <td>64.7%</td>
             <td>26.90%</td>
+            <td>3.4%</td>
             <td>49.1%</td>
           </tr>
         </table>
@@ -235,13 +241,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>11.9%</td>
             <td>39.2%</td>
             <td>42.0%</td>
+            <td>8.4%</td>
             <td>55.2%</td>
           </tr>
         </table>
@@ -277,13 +285,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>14.8%</td>
             <td>28.9%</td>
             <td>52.1%</td>
+            <td>4.4%</td>
             <td>52.6%</td>
           </tr>
         </table>
@@ -319,13 +329,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>17.9%</td>
             <td>26.0%</td>
             <td>48.8%</td>
+            <td>7.6%</td>
             <td>54.7%</td>
           </tr>
         </table>
@@ -361,13 +373,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>6.8%</td>
             <td>58.8%</td>
             <td>31.6%</td>
+            <td>3.4%</td>
             <td>51.5%</td>
           </tr>
         </table>
@@ -403,13 +417,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>3.2%</td>
             <td>68.7%</td>
             <td>26.7%</td>
+            <td>1.9%</td>
             <td>45.8%</td>
           </tr>
         </table>
@@ -445,13 +461,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>5.2%</td>
             <td>13.3%</td>
             <td>70.1%</td>
+            <td>11.6%</td>
             <td>50.4%</td>
           </tr>
         </table>
@@ -487,13 +505,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>3.8%</td>
             <td>69.8%</td>
             <td>25.6%</td>
+            <td>1.3%</td>
             <td>51.7%</td>
           </tr>
         </table>
@@ -529,13 +549,15 @@
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
-              <th>Voted<br> for Abbott</th>
+              <th>Other</th>
+							<th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
             <td>24.4%</td>
             <td>33.8%</td>
             <td>20.3%</td>
+            <td>22.4%</td>
             <td>46.5%</td>
           </tr>
         </table>
@@ -561,12 +583,12 @@
     </div>
     <hr>
 
-<!--     <div class="row">
+    <div class="row">
       <div class="col-xs-12">
-        <p>Noun project icons by Yi Chen</p>
+        <p class="small">Demographic information is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race.</p>
       </div>
     </div>
- -->
+
 
   </article>
 
