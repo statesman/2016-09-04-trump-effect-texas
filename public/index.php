@@ -92,10 +92,10 @@
       <br>
       Published <?php print $meta['publish_date']; ?></p>
       <p>Thanks to partisan redistricting, only a handful of state House districts in Texas are consistently competitive in the general election. This year, however, Democrats are hoping to expand the map by capitalizing on Donald Trump’s lack of support among minority voters. Here are the races that are expected to be competitive this November.</p>
-      <?php if ($meta['related_story'])
+<!--       <?php if ($meta['related_story'])
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
-      </div>
+ -->      </div>
     </div>
     <hr>
     <!-- district 23 -->
@@ -130,13 +130,13 @@
             <img class="img_responsive" src="assets/23_r.jpg">
             <h3>Wayne Faircloth</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Faircloth, an insurance agent, first ran for the House in 2012 and lost. He won his seat in 2014, defeating Democrat Susan Criss, the daughter of his current opponent.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/23_d.jpg">
             <h3>Lloyd Criss</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Criss, a longtime chairman of the Galveston County Democratic Party, previously served six terms in the House, from 1979 to 1991.</p>          
           </div>
         </div>
       </div>
@@ -174,13 +174,13 @@
             <img class="img_responsive" src="assets/43_r.jpg">
             <h3>J.M. Lozano</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Lozano was elected as a Democrat in 2010 before switching parties and winning reelection as a Republican in 2012 and 2014. He owns four Wingstop franchises.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/43_d.jpg">
             <h3>Marisa Yvette Garcia-Utley</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Garcia-Utley owns a women’s fitness center in Alice and is making her first run for the Legislature. She is a former chairwoman of the Jim Wells County Democratic Party, and her husband is the county judge.</p>          
           </div>
         </div>
       </div>
@@ -218,13 +218,13 @@
             <img class="img_responsive" src="assets/78_r.jpg">
             <h3>Jeffrey Lane</h3>
             <h4>Republican</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Lane previously worked as a computer programmer for companies that worked at the White Sands Missile Range.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/78_d.jpg">
             <h3>Joe Moody</h3>
             <h4>Democrat (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Moody, a lawyer, was elected to the House in 2008, lost in 2010 and won again in 2012. His father is state District Judge William Moody.</p>          
           </div>
         </div>
       </div>
@@ -262,13 +262,13 @@
             <img class="img_responsive" src="assets/105_r.jpg">
             <h3>Rodney Anderson</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>The vice president of a title company, Anderson first won election in 2010, before losing in 2012 and regaining his seat in 2014.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/105_d.jpg">
             <h3>Terry Meza</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Meza, an attorney from Irving, ran for the seat in 2014 but lost in the Democratic primary.</p>          
           </div>
         </div>
       </div>
@@ -306,13 +306,13 @@
             <img class="img_responsive" src="assets/107_r.jpg">
             <h3>Kenneth Sheets</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Sheets, a lawyer, got elected in 2010. Last session, he <a href="Sheets, a lawyer, got elected in 2010. Last session, he broke six gavels while presiding over House proceedings." target="_blank">broke six gavels</a> while presiding over House proceedings.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/107_d.jpg">
             <h3>Victoria Neave</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Neave is a trial attorney and serves as the general counsel for the National Latino Law Enforcement Organization.</p>          
           </div>
         </div>
       </div>
@@ -350,13 +350,13 @@
             <img class="img_responsive" src="assets/113_r.jpg">
             <h3>Cindy Burkett</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>A co-owner of several Subway franchises, Burkett was first elected in 2010.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/113_d.jpg">
             <h3>Rhetta Andrews Bowers</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Andrews-Bowers worked as a legislative aide and is a member of the Rowlett Parks and Recreation Advisory Board. Her father emigrated from the West Indies.</p>          
           </div>
         </div>
       </div>
@@ -394,13 +394,13 @@
             <img class="img_responsive" src="assets/117_r.jpg">
             <h3>Rick Galindo</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Galindo is a risk manager for Spectrum Association Management, which serves HOAs across Texas. In 2014, he unseated Philip Cortez, who he faces again this year.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/117_d.jpg">
             <h3>Philip Cortez</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Cortez, like several of the Democratic candidates running this year, is a former representative, winning his seat in 2012 and losing it two years later to Galindo. He is a former San Antonio City Council member.</p>          
           </div>
         </div>
       </div>
@@ -438,13 +438,13 @@
             <img class="img_responsive" src="assets/118_r.jpg">
             <h3>John Lujan</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>After state Rep. Joe Farias resigned, Lujan in January won a low-turnout special election in this highly Democratic district and is expected to lose in November.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/118_d.jpg">
             <h3>Tomas Uresti</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Uresti is the brother of state Sen. Carlos Uresti and a member of the Harlandale school district trustee.</p>          
           </div>
         </div>
       </div>
@@ -482,13 +482,13 @@
             <img class="img_responsive" src="assets/134_r.jpg">
             <h3>Sarah Davis</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Davis, a lawyer with the Lewis, Brisbois, Bisgaard & Smith firm, was elected in 2010 and is considered a relatively moderate Republican in a deeply conservative majority.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/134_d.jpg">
             <h3>Ben Rose</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Rose is a trial attorney and a first-time candidate. Despite running in Houston, and not Austin, <a href="Rose is a trial attorney and a first-time candidate. Despite running in Houston, and not Austin, Rose held his campaign kick-off fundraiser in a hip vintage shop" target="_blank">Rose held his campaign kick-off fundraiser in a hip vintage shop</a>.</p>          
           </div>
         </div>
       </div>
@@ -526,13 +526,13 @@
             <img class="img_responsive" src="assets/144_r.jpg">
             <h3>Gilbert Peña</h3>
             <h4>Republican (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Peña, who is retired, ran unsuccessfully for the Legislature three times before unseating Mary Ann Perez in 2014. He faces her again this year.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/144_d.jpg">
             <h3>Mary Ann Perez</h3>
             <h4>Democrat</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Perez is a former state representative and chairwoman of the Houston Community College board of trustees.</p>          
           </div>
         </div>
       </div>
@@ -570,13 +570,13 @@
             <img class="img_responsive" src="assets/149_r.jpg">
             <h3>Bryan Chu, R</h3>
             <h4>Republican</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>
+            <p>Chu was born in Vietnam and is a dentist. He ran uncontested in the GOP primary.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/149_d.jpg">
             <h3>Hubert Vo, D</h3>
             <h4>Democrat (i)</h4>
-            <p>Gamorrean binks wedge darth. Mon darth mon kit ponda solo. Moff watto ackbar mothma moff anakin.</p>          
+            <p>Vo, who was also born in Vietnam, has served in the House since 2004. He is a real-estate developer.</p>          
           </div>
         </div>
       </div>
@@ -585,7 +585,7 @@
 
     <div class="row">
       <div class="col-xs-12">
-        <p class="small">Demographic information is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race.</p>
+        <p class="small">Sources: Demographic information come from the Texas Legislative Council and is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
       </div>
     </div>
 
