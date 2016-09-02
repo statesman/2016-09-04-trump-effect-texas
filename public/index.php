@@ -8,10 +8,10 @@
   $meta = array(
     "title" => "Will Donald Trump help elect Democrats in the Texas House | Statesman.com",
     "description" => "Democrats are hoping to expand the map by capitalizing on Donald Trump’s weak support among minority voters.",
-    "thumbnail" => "http://projects.statesman.com/news/2016-09-04-trump-effect/assets/share.png",
+    "thumbnail" => "http://projects.statesman.com/news/2016-09-04-trump-effect-texas/assets/share.png",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/media/2015-08-28-16-58-55/web/site/www_mystatesman_com/images/favicon.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
-    "url" => "http://projects.statesman.com/news/2016-09-04-trump-effect/",
+    "url" => "http://projects.statesman.com/news/2016-09-04-trump-effect-texas/",
     "twitter" => "aasinteractive",
     "authors" => array(
         array("name" => "Christian McDonald", "twitter" => "crit"),
@@ -19,8 +19,8 @@
     ),
     "publish_date" => "September 2, 2016",
     "related_story" => array(
-        "url" => "http://www.mystatesman.com/news/news/local/jobs-schools-bring-growing-asian-population-north/nrk9D/",
-        "headline" => "Sean's great story headline is here"
+        "url" => "http://www.mystatesman.com/news/news/state-regional-govt-politics/will-donald-trump-help-democrats-flip-texas-house-/nsQsj/",
+        "headline" => "Will Donald Trump help Democrats flip Texas House seats?"
     )
   );
 ?>
@@ -87,15 +87,15 @@
 
     <div class="row">
       <div class="col-lg-12 interative-header">
-      <h1 id="pagetitle">Will Donald Trump help elect Democrats in the Texas House?</h1>
+      <h1 id="pagetitle">Will Donald Trump help elect Democrats in these Texas House districts?</h1>
       <p class="author">By <?php $len = count($meta['authors']) - 1; foreach($meta['authors'] as $i => $row) { print "<a href='http://twitter.com/" . $row['twitter'] . "'>" . $row['name'] . "</a>"; if ($i !== $len) print " and "; }?>
       <br>
       Published <?php print $meta['publish_date']; ?></p>
       <p>Thanks to partisan redistricting, only a handful of state House districts in Texas are usually competitive in the general election. This year, however, Democrats are hoping to expand the map by capitalizing on Donald Trump’s weak support among minority voters. Eleven races are expected to be competitive this November.</p>
-<!--       <?php if ($meta['related_story'])
+      <?php if ($meta['related_story'])
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
- -->      </div>
+      </div>
     </div>
     <hr>
     <!-- district 23 -->
