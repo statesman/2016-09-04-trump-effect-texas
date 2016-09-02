@@ -152,7 +152,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -194,7 +194,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -236,7 +236,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -278,7 +278,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -320,7 +320,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -363,7 +363,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -405,7 +405,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -447,7 +447,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -489,7 +489,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -531,7 +531,7 @@
           <thead>
             <tr>
               <th>Black</th>
-              <th>Latino</th>
+              <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
