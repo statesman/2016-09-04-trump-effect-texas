@@ -102,15 +102,18 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-23.png"><br>
-        <h5>District 23 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 23:</span> Galveston</h2>
+        <h4></h4>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -121,10 +124,6 @@
             <td>54.8%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 23</h2>
-        <h5>Galveston</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/23_r.jpg">
@@ -146,15 +145,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-43.png"><br>
-        <h5>District 43 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 43:</span> Kingsville, Alice, Corpus Christi</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -165,10 +166,6 @@
             <td>55.3%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 43</h2>
-        <h5>Kingsville, Alice, Corpus Christi</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/43_r.jpg">
@@ -190,15 +187,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-78.png"><br>
-        <h5>District 78 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 78:</span> El Paso</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -209,10 +208,6 @@
             <td>49.1%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 78</h2>
-        <h5>El Paso</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/78_r.jpg">
@@ -234,15 +229,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-105.png"><br>
-        <h5>District 105 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 105:</span> Irving, Grand Prairie</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -253,10 +250,6 @@
             <td>55.2%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 105</h2>
-        <h5>Irving, Grand Prairie</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/105_r.jpg">
@@ -279,14 +272,17 @@
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-107.png"><br>
         <h5>District 107 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 107:</span> Mesquite, Garland</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -297,10 +293,6 @@
             <td>52.6%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 107</h2>
-        <h5>Mesquite, Garland</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/107_r.jpg">
@@ -322,15 +314,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-113.png"><br>
-        <h5>District 113 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 113:</span> Mesquite, Sunnyvale</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -341,10 +335,6 @@
             <td>54.7%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 113</h2>
-        <h5>Mesquite, Sunnyvale</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/113_r.jpg">
@@ -366,15 +356,18 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-117.png"><br>
-        <h5>District 117 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 117:</span> San Antonio, Helotes</h2>
+        <h5></h5>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -385,10 +378,6 @@
             <td>51.5%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 117</h2>
-        <h5>San Antonio, Helotes</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/117_r.jpg">
@@ -397,7 +386,7 @@
             <p>Galindo is a risk manager for Spectrum Association Management, which serves home owner associations across Texas. In 2014, he unseated Philip Cortez.</p>
           </div>
           <div class="col-lg-6 candidate right">
-            <img class="img_responsive" src="assets/117_d.jpg">
+            <!-- <img class="img_responsive" src="assets/117_d.jpg"> -->
             <h3>Philip Cortez</h3>
             <h4>Democrat</h4>
             <p>Cortez is a former representative, winning his seat in 2012 and losing it two years later to Galindo. He is a former San Antonio City Council member.</p>          
@@ -410,15 +399,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-118.png"><br>
-        <h5>District 118 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 118:</span> San Antonio, Hedwig</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -429,10 +420,6 @@
             <td>45.8%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 118</h2>
-        <h5>San Antonio, Hedwig</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/118_r.jpg">
@@ -454,15 +441,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-134.png"><br>
-        <h5>District 134 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 134:</span> Houston, West University Place</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -473,10 +462,6 @@
             <td>50.4%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 134</h2>
-        <h5>Houston, West University Place</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/134_r.jpg">
@@ -499,14 +484,17 @@
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-144.png"><br>
         <h5>District 144 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 144:</span> Pasadena, Houston</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -517,10 +505,6 @@
             <td>51.7%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 144</h2>
-        <h5>Pasadena, Houston</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/144_r.jpg">
@@ -542,15 +526,17 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-149.png"><br>
-        <h5>District 149 demographics, voting history</h5>
-        <table class="table stats">
+      </div>
+      <div class="col-sm-6 col-lg-8">
+        <h2 class="district"><span>District 149:</span> Houston</h2>
+        <table class="table stats table-bordered table-striped">
           <thead>
             <tr>
               <th>Black</th>
               <th>Hispanic</th>
               <th>White</th>
               <th>Other</th>
-							<th>Voted<br>Abbott</th>
+              <th>Voted<br>Abbott</th>
             </tr>
           </thead>
           <tr>
@@ -561,10 +547,6 @@
             <td>46.5%</td>
           </tr>
         </table>
-      </div>
-      <div class="col-sm-6 col-lg-8">
-        <h2 class="district">District 149</h2>
-        <h5>Houston</h5>
         <div class="row">
           <div class="col-lg-6 candidate left clearfix">
             <img class="img_responsive" src="assets/149_r.jpg">
