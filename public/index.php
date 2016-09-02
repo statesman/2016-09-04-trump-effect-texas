@@ -7,17 +7,17 @@
   // update these fields
   $meta = array(
     "title" => "Will Donald Trump help elect Democrats in the Texas House | Statesman.com",
-    "description" => "Democrats target down-ballot Texas House races, hoping to capitalize on some Republican's dislike for their presidential nominee, Donald Trump.",
-    "thumbnail" => "http://projects.statesman.com/site_path/assets/share.jpg",
+    "description" => "Democrats are hoping to expand the map by capitalizing on Donald Trump’s weak support among minority voters.",
+    "thumbnail" => "http://projects.statesman.com/news/2016-09-04-trump-effect/assets/share.png",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/media/2015-08-28-16-58-55/web/site/www_mystatesman_com/images/favicon.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
-    "url" => "http://projects.statesman.com/news/single-page-project/",
+    "url" => "http://projects.statesman.com/news/2016-09-04-trump-effect/",
     "twitter" => "aasinteractive",
     "authors" => array(
         array("name" => "Christian McDonald", "twitter" => "crit"),
         array("name" => "Sean Collins Walsh", "twitter" => "seancwalsh")
     ),
-    "publish_date" => "June 23, 2016",
+    "publish_date" => "September 2, 2016",
     "related_story" => array(
         "url" => "http://www.mystatesman.com/news/news/local/jobs-schools-bring-growing-asian-population-north/nrk9D/",
         "headline" => "Sean's great story headline is here"
@@ -271,7 +271,6 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-107.png"><br>
-        <h5>District 107 demographics, voting history</h5>
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 107:</span> Mesquite, Garland</h2>
@@ -483,7 +482,6 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 map">
         <img class="img-responsive" src="assets/TX-house-144.png"><br>
-        <h5>District 144 demographics, voting history</h5>
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 144:</span> Pasadena, Houston</h2>
