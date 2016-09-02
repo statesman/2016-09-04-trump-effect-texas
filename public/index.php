@@ -565,7 +565,7 @@
 
     <div class="row">
       <div class="col-xs-12">
-        <p class="small">Sources: Demographic information comes from the Texas Legislative Council and is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
+        <p class="small">Sources: Demographic information comes from the Texas Legislative Council and is based on voting-age population. Percentages may not add up to 100 because some people report belonging to more than one group. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
       </div>
     </div>
 
