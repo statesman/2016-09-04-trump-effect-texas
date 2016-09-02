@@ -125,7 +125,8 @@ module.exports = function(grunt) {
         dest: ['/prod_aas/projects', config.site_dir, config.site_path].join("/"),
         exclusions: ['dist/tmp', 'Thumbs.db', '.DS_Store'],
         simple: false,
-        useList: false
+        useList: false,
+        keep: ['*']
       }
     }
 
