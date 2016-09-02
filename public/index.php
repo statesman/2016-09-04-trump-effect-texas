@@ -6,7 +6,7 @@
   <?php
   // update these fields
   $meta = array(
-    "title" => "Working the Trump Effect | Statesman.com",
+    "title" => "Will Donald Trump help elect Democrats in the Texas House | Statesman.com",
     "description" => "Democrats target down-ballot Texas House races, hoping to capitalize on some Republican's dislike for their presidential nominee, Donald Trump.",
     "thumbnail" => "http://projects.statesman.com/site_path/assets/share.jpg",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/media/2015-08-28-16-58-55/web/site/www_mystatesman_com/images/favicon.ico",
@@ -87,11 +87,11 @@
 
     <div class="row">
       <div class="col-lg-12 interative-header">
-      <h1 id="pagetitle">The Trump effect on Texas House races</h1>
+      <h1 id="pagetitle">Will Donald Trump help elect Democrats in the Texas House?</h1>
       <p class="author">By <?php $len = count($meta['authors']) - 1; foreach($meta['authors'] as $i => $row) { print "<a href='http://twitter.com/" . $row['twitter'] . "'>" . $row['name'] . "</a>"; if ($i !== $len) print " and "; }?>
       <br>
       Published <?php print $meta['publish_date']; ?></p>
-      <p>Thanks to partisan redistricting, only a handful of state House districts in Texas are consistently competitive in the general election. This year, however, Democrats are hoping to expand the map by capitalizing on Donald Trump’s lack of support among minority voters. Here are the races that are expected to be competitive this November.</p>
+      <p>Thanks to partisan redistricting, only a handful of state House districts in Texas are usually competitive in the general election. This year, however, Democrats are hoping to expand the map by capitalizing on Donald Trump’s weak support among minority voters. Eleven races are expected to be competitive this November.</p>
 <!--       <?php if ($meta['related_story'])
         print "<p class='bold'>Read more: <a href='" . $meta['related_story']['url'] . "' target='_blank'>" . $meta['related_story']['headline'] . " &raquo;</a></p>"
       ?>
@@ -224,7 +224,7 @@
             <img class="img_responsive" src="assets/78_d.jpg">
             <h3>Joe Moody</h3>
             <h4>Democrat (i)</h4>
-            <p>Moody, a lawyer, was elected to the House in 2008, lost in 2010 and won again in 2012. His father is state District Judge William Moody.</p>          
+            <p>Moody, a lawyer, was elected to the House in 2008, lost in 2010 and won again in 2012 and 2014. His father is state District Judge William Moody.</p>
           </div>
         </div>
       </div>
@@ -306,13 +306,13 @@
             <img class="img_responsive" src="assets/107_r.jpg">
             <h3>Kenneth Sheets</h3>
             <h4>Republican (i)</h4>
-            <p>Sheets, a lawyer, got elected in 2010. Last session, he <a href="Sheets, a lawyer, got elected in 2010. Last session, he broke six gavels while presiding over House proceedings." target="_blank">broke six gavels</a> while presiding over House proceedings.</p>
+            <p>Sheets, a lawyer, was first elected in 2010. Last session, he <a href="Sheets, a lawyer, got elected in 2010. Last session, he broke six gavels while presiding over House proceedings." target="_blank">broke six gavels</a> while presiding over House proceedings.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/107_d.jpg">
             <h3>Victoria Neave</h3>
             <h4>Democrat</h4>
-            <p>Neave is a trial attorney and serves as the general counsel for the National Latino Law Enforcement Organization.</p>          
+            <p>Neave is a trial attorney and serves as general counsel for the National Latino Law Enforcement Organization.​</p>          
           </div>
         </div>
       </div>
@@ -394,13 +394,13 @@
             <img class="img_responsive" src="assets/117_r.jpg">
             <h3>Rick Galindo</h3>
             <h4>Republican (i)</h4>
-            <p>Galindo is a risk manager for Spectrum Association Management, which serves HOAs across Texas. In 2014, he unseated Philip Cortez, who he faces again this year.</p>
+            <p>Galindo is a risk manager for Spectrum Association Management, which serves home owner associations across Texas. In 2014, he unseated Philip Cortez.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/117_d.jpg">
             <h3>Philip Cortez</h3>
             <h4>Democrat</h4>
-            <p>Cortez, like several of the Democratic candidates running this year, is a former representative, winning his seat in 2012 and losing it two years later to Galindo. He is a former San Antonio City Council member.</p>          
+            <p>Cortez is a former representative, winning his seat in 2012 and losing it two years later to Galindo. He is a former San Antonio City Council member.</p>          
           </div>
         </div>
       </div>
@@ -438,13 +438,13 @@
             <img class="img_responsive" src="assets/118_r.jpg">
             <h3>John Lujan</h3>
             <h4>Republican (i)</h4>
-            <p>After state Rep. Joe Farias resigned, Lujan in January won a low-turnout special election in this highly Democratic district and is expected to lose in November.</p>
+            <p>After state Rep. Joe Farias resigned, Lujan in January won a low-turnout special election in this highly Democratic district.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/118_d.jpg">
             <h3>Tomas Uresti</h3>
             <h4>Democrat</h4>
-            <p>Uresti is the brother of state Sen. Carlos Uresti and a member of the Harlandale school district trustee.</p>          
+            <p>Uresti is the brother of state Sen. Carlos Uresti and a member of the Harlandale school board.</p>          
           </div>
         </div>
       </div>
@@ -482,13 +482,13 @@
             <img class="img_responsive" src="assets/134_r.jpg">
             <h3>Sarah Davis</h3>
             <h4>Republican (i)</h4>
-            <p>Davis, a lawyer with the Lewis, Brisbois, Bisgaard & Smith firm, was elected in 2010 and is considered a relatively moderate Republican in a deeply conservative majority.</p>
+            <p>Davis, a lawyer with the Lewis, Brisbois, Bisgaard and Smith firm, was elected in 2010 and is considered a moderate.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/134_d.jpg">
             <h3>Ben Rose</h3>
             <h4>Democrat</h4>
-            <p>Rose is a trial attorney and a first-time candidate. Despite running in Houston, and not Austin, <a href="Rose is a trial attorney and a first-time candidate. Despite running in Houston, and not Austin, Rose held his campaign kick-off fundraiser in a hip vintage shop" target="_blank">Rose held his campaign kick-off fundraiser in a hip vintage shop</a>.</p>          
+            <p>Rose is a trial attorney and a first-time candidate.</p>          
           </div>
         </div>
       </div>
@@ -526,7 +526,7 @@
             <img class="img_responsive" src="assets/144_r.jpg">
             <h3>Gilbert Peña</h3>
             <h4>Republican (i)</h4>
-            <p>Peña, who is retired, ran unsuccessfully for the Legislature three times before unseating Mary Ann Perez in 2014. He faces her again this year.</p>
+            <p>Peña, who is retired, ran unsuccessfully for the Legislature three times before unseating Mary Ann Perez in 2014.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/144_d.jpg">
@@ -585,7 +585,7 @@
 
     <div class="row">
       <div class="col-xs-12">
-        <p class="small">Sources: Demographic information come from the Texas Legislative Council and is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
+        <p class="small">Sources: Demographic information comes from the Texas Legislative Council and is based on citizen voting-age population. Percentages may not add up to 100 because some people report belonging to more than one race. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
       </div>
     </div>
 
