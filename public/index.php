@@ -106,7 +106,7 @@
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 23:</span> Galveston</h2>
         <h4></h4>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
@@ -148,11 +148,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 43:</span> Kingsville, Alice, Corpus Christi</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -190,11 +190,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 78:</span> El Paso</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -232,11 +232,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 105:</span> Irving, Grand Prairie</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -274,11 +274,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 107:</span> Mesquite, Garland</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -316,11 +316,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 113:</span> Mesquite, Sunnyvale</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -359,11 +359,11 @@
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 117:</span> San Antonio, Helotes</h2>
         <h5></h5>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -401,11 +401,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 118:</span> San Antonio, Hedwig</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -443,11 +443,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 134:</span> Houston, West University Place</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -485,11 +485,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 144:</span> Pasadena, Houston</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
@@ -527,11 +527,11 @@
       </div>
       <div class="col-sm-6 col-lg-8">
         <h2 class="district"><span>District 149:</span> Houston</h2>
-        <table class="table stats table-bordered table-striped">
+        <table class="table stats table-condensed table-bordered">
           <thead>
             <tr>
               <th>Black</th>
-              <th>Hispanic</th>
+              <th>Latino</th>
               <th>White</th>
               <th>Other</th>
               <th>Voted<br>Abbott</th>
