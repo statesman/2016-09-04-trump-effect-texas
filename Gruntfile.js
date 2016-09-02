@@ -117,7 +117,7 @@ module.exports = function(grunt) {
       },
       prod: {
         auth: {
-          host: 'host.coxmediagroup.com',
+          host: 'cmgdtcpxahost.cmg.int',
           port: 21,
           authKey: 'cmg'
         },
