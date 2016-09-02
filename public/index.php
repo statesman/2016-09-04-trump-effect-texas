@@ -385,7 +385,7 @@
             <p>Galindo is a risk manager for Spectrum Association Management, which serves home owner associations across Texas. In 2014, he unseated Philip Cortez.</p>
           </div>
           <div class="col-lg-6 candidate right">
-            <!-- <img class="img_responsive" src="assets/117_d.jpg"> -->
+            <img class="img_responsive" src="assets/117_d.jpg">
             <h3>Philip Cortez</h3>
             <h4>Democrat</h4>
             <p>Cortez is a former representative, winning his seat in 2012 and losing it two years later to Galindo. He is a former San Antonio City Council member.</p>          
