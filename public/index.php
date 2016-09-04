@@ -255,7 +255,7 @@
             <img class="img_responsive" src="assets/105_r.jpg">
             <h3>Rodney Anderson</h3>
             <h4>Republican (i)</h4>
-            <p>The vice president of a title company, Anderson first won election in 2010, before losing in 2012 and regaining his seat in 2014.</p>
+            <p>The vice president of a title company, Anderson first won election in 2010.</p>
           </div>
           <div class="col-lg-6 candidate right">
             <img class="img_responsive" src="assets/105_d.jpg">
@@ -566,6 +566,7 @@
     <div class="row">
       <div class="col-xs-12">
         <p class="small">Sources: Demographic information comes from the Texas Legislative Council and is based on voting-age population. Percentages may not add up to 100 because some people report belonging to more than one group. Special thanks to WNYC for the <a href="https://github.com/datanews/minimaps" target="_blank">Minimaps</a> generator.</p>
+        <p class="small">Correction: Rodney Anderson's entry has been updated to remove erroneous information.</p>
       </div>
     </div>
 
